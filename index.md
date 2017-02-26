@@ -1,7 +1,7 @@
 
 
 ### cozmo
-My cozmo project controls Cozmo by calling in to the number +1 (925) 29 COZMO.
+my cozmo project controls cozmo by calling in to the number +1 (925) 29 COZMO.
 
 ```markdown
 from flask import Flask, request
@@ -150,6 +150,10 @@ if __name__ == "__main__":
 
 ```
 ![Image](https://dmyhprcifcyj5.cloudfront.net/sites/default/files/cozmo-landingpage-imgs/cozmo-game-mobile.jpg)
+
+### information
+
+[cozmo](https://anki.com/en-us/cozmo?_ga=1.85215710.694554497.1483836170) is a robot that has its own brains. [twilio](https://www.twilio.com/) is a sms/phone service. [python](python.org) is an easy text-based language that is very adaptable and widely used. combine the trio and you get this.
 
 
 
