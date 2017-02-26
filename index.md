@@ -153,7 +153,7 @@ if __name__ == "__main__":
 
 ### information
 
-[cozmo](https://anki.com/en-us/cozmo?_ga=1.85215710.694554497.1483836170) is a robot that has its own brains. [twilio](https://www.twilio.com/) is a sms/phone service. [python]([twilio](https://www.python.org/) is an easy text-based language that is very adaptable and widely used. combine the trio and you get this.
+[cozmo](https://anki.com/en-us/cozmo?_ga=1.85215710.694554497.1483836170) is a robot that has its own brains. [twilio](https://www.twilio.com/) is a sms/phone service. [python](https://www.python.org/) is an easy text-based language that is very adaptable and widely used. combine the trio and you get this.
 
 
 
