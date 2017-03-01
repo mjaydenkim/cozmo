@@ -151,6 +151,12 @@ if __name__ == "__main__":
 ```
 ![Image](https://dmyhprcifcyj5.cloudfront.net/sites/default/files/cozmo-landingpage-imgs/cozmo-game-mobile.jpg)
 ![Image](https://tctechcrunch2011.files.wordpress.com/2016/10/cozmo_5_360-png.gif)
+![Image](https://dmyhprcifcyj5.cloudfront.net/sites/default/files/cozmo-landingpage-imgs/cozmo-peek-mobile.jpg)
+![Image](https://cdn0.vox-cdn.com/thumbor/OVf_RC_ubtstGRqSfyVk5hqoy7s=/1020x0/cdn0.vox-cdn.com/uploads/chorus_asset/file/6770225/anki-cozmo-stock-vpavic-12.0.jpg)
+![Image](https://c.slashgear.com/wp-content/uploads/2016/06/anki-cozmo-3.gif)
+![Image](https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6947125/cozmo.0.gif)
+![Image](http://img.huffingtonpost.com/asset/scalefit_630_noupscale/577137d61500002a0073cbd5.gif)
+![Image](https://images-na.ssl-images-amazon.com/images/G/01/vince/boost/detailpages/cozmovideo._SR720,404_.jpg)
 [Cozmo Video](https://www.youtube.com/watch?v=cD5xwhZf87U)
 
 ### information
