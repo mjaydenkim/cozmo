@@ -150,10 +150,19 @@ if __name__ == "__main__":
 
 ```
 ![Image](https://dmyhprcifcyj5.cloudfront.net/sites/default/files/cozmo-landingpage-imgs/cozmo-game-mobile.jpg)
+![Image](https://tctechcrunch2011.files.wordpress.com/2016/10/cozmo_5_360-png.gif)
+[Cozmo Video](https://www.youtube.com/watch?v=cD5xwhZf87U)
 
 ### information
 
 [cozmo](https://anki.com/en-us/cozmo?_ga=1.85215710.694554497.1483836170) is a robot that has its own brains. [twilio](https://www.twilio.com/) is a sms/phone service. [python](https://www.python.org/) is an easy text-based language that is very adaptable and widely used. combine the trio and you get this.
+
+
+Please put a comment in my envelope if you enjoyed my project. I would appreciate it. 
+Thanks,
+Matthew
+
+
 
 
 
